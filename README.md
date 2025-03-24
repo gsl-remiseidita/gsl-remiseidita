@@ -11,6 +11,8 @@ Welcome to my GitHub space! Here, you'll find my projects, contributions, and de
 - 📫 Reach me at **remi.seidita@aviv-group.com**
 
 ## 🛠️ Technologies & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-3B3C40?style=flat&logo=amazon-aws&logoColor=FF9900)
